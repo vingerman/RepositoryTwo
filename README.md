@@ -1,2 +1,2 @@
 # RepositoryTwo
-This is a file for RepositoryTwo
+This is a readme file for RepositoryTwo.
